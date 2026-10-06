@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 93e3bb3a1db244d4c80726704fff1fdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2330906747051237360
+    second: Maya Marcus stage 2 sprite_0
+  - first:
+      213: 8008323152625595105
+    second: Maya Marcus stage 2 sprite_1
+  - first:
+      213: 6288668735323955368
+    second: Maya Marcus stage 2 sprite_2
+  - first:
+      213: 4106400144019989322
+    second: Maya Marcus stage 2 sprite_3
+  - first:
+      213: -3157066719846869998
+    second: Maya Marcus stage 2 sprite_4
+  - first:
+      213: 3206737018853420975
+    second: Maya Marcus stage 2 sprite_5
+  - first:
+      213: -3923366859353696463
+    second: Maya Marcus stage 2 sprite_6
+  - first:
+      213: -206547181456602517
+    second: Maya Marcus stage 2 sprite_7
+  - first:
+      213: 4807060566629047322
+    second: Maya Marcus stage 2 sprite_8
+  - first:
+      213: -5831291492616347093
+    second: Maya Marcus stage 2 sprite_9
+  - first:
+      213: 1150367174801785972
+    second: Maya Marcus stage 2 sprite_10
+  - first:
+      213: -1337111765866286831
+    second: Maya Marcus stage 2 sprite_11
+  - first:
+      213: 3052052208701303608
+    second: Maya Marcus stage 2 sprite_12
+  - first:
+      213: 8007562855688064033
+    second: Maya Marcus stage 2 sprite_13
+  - first:
+      213: -5785995988990267894
+    second: Maya Marcus stage 2 sprite_14
+  - first:
+      213: 4839770647902501081
+    second: Maya Marcus stage 2 sprite_15
+  - first:
+      213: 781915602935937074
+    second: Maya Marcus stage 2 sprite_16
+  - first:
+      213: -6280541282137379242
+    second: Maya Marcus stage 2 sprite_17
+  - first:
+      213: -7948322737857965933
+    second: Maya Marcus stage 2 sprite_18
+  - first:
+      213: -8064220290928662759
+    second: Maya Marcus stage 2 sprite_19
+  - first:
+      213: 3550104265624538442
+    second: Maya Marcus stage 2 sprite_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 1011
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0102379c9a4f6afd0800000000000000
+      internalID: -2330906747051237360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1189
+        width: 141
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2f8c63a77432f60800000000000000
+      internalID: 8008323152625595105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1457
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e61f55e6d54750800000000000000
+      internalID: 6288668735323955368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1127
+        width: 155
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43ace1ac2ddcf830800000000000000
+      internalID: 4106400144019989322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1359
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d15f8b88df24d0800000000000000
+      internalID: -3157066719846869998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1303
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf6ad0245e908c20800000000000000
+      internalID: 3206737018853420975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1319
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137dea8d0a66d89c0800000000000000
+      internalID: -3923366859353696463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1327
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6acbebce62322df0800000000000000
+      internalID: -206547181456602517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1263
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c56bfcd1c16b240800000000000000
+      internalID: 4807060566629047322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1249
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2268d07847131fa0800000000000000
+      internalID: -5831291492616347093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1269
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474845fb9dce6ff00800000000000000
+      internalID: 1150367174801785972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 990
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117b8aeeef917de0800000000000000
+      internalID: -1337111765866286831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1023
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b669730511b5a20800000000000000
+      internalID: 3052052208701303608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 989
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c46e9cdf3902f60800000000000000
+      internalID: 8007562855688064033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 974
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6664bd4304bfa0800000000000000
+      internalID: -5785995988990267894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 946
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8379613c15a2340800000000000000
+      internalID: 4839770647902501081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 945
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f45d191ce9da00800000000000000
+      internalID: 781915602935937074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_17
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 849
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e6609caf807d8a0800000000000000
+      internalID: -6280541282137379242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 825
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390d0d9f492e1b190800000000000000
+      internalID: -7948322737857965933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 436
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91723b81f52261090800000000000000
+      internalID: -8064220290928662759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Marcus stage 2 sprite_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d46243501844130800000000000000
+      internalID: 3550104265624538442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maya Marcus stage 2 sprite_0: -2330906747051237360
+      Maya Marcus stage 2 sprite_1: 8008323152625595105
+      Maya Marcus stage 2 sprite_10: 1150367174801785972
+      Maya Marcus stage 2 sprite_11: -1337111765866286831
+      Maya Marcus stage 2 sprite_12: 3052052208701303608
+      Maya Marcus stage 2 sprite_13: 8007562855688064033
+      Maya Marcus stage 2 sprite_14: -5785995988990267894
+      Maya Marcus stage 2 sprite_15: 4839770647902501081
+      Maya Marcus stage 2 sprite_16: 781915602935937074
+      Maya Marcus stage 2 sprite_17: -6280541282137379242
+      Maya Marcus stage 2 sprite_18: -7948322737857965933
+      Maya Marcus stage 2 sprite_19: -8064220290928662759
+      Maya Marcus stage 2 sprite_2: 6288668735323955368
+      Maya Marcus stage 2 sprite_20: 3550104265624538442
+      Maya Marcus stage 2 sprite_3: 4106400144019989322
+      Maya Marcus stage 2 sprite_4: -3157066719846869998
+      Maya Marcus stage 2 sprite_5: 3206737018853420975
+      Maya Marcus stage 2 sprite_6: -3923366859353696463
+      Maya Marcus stage 2 sprite_7: -206547181456602517
+      Maya Marcus stage 2 sprite_8: 4807060566629047322
+      Maya Marcus stage 2 sprite_9: -5831291492616347093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

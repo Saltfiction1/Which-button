@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 2e4ba9688ca56cd4ca0a7a0575536434
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6491901877770607875
+    second: Maya Julian stage 1_0
+  - first:
+      213: 4029486334639691343
+    second: Maya Julian stage 1_1
+  - first:
+      213: 647460884024625215
+    second: Maya Julian stage 1_2
+  - first:
+      213: 2407318992710340148
+    second: Maya Julian stage 1_3
+  - first:
+      213: 6320794610990628235
+    second: Maya Julian stage 1_4
+  - first:
+      213: -2062241849951628334
+    second: Maya Julian stage 1_5
+  - first:
+      213: -8680189454643552898
+    second: Maya Julian stage 1_6
+  - first:
+      213: -7199323254921236905
+    second: Maya Julian stage 1_7
+  - first:
+      213: -6626791662886162222
+    second: Maya Julian stage 1_8
+  - first:
+      213: 2569378686288582929
+    second: Maya Julian stage 1_9
+  - first:
+      213: 3551534622512004384
+    second: Maya Julian stage 1_10
+  - first:
+      213: 7749883540777712151
+    second: Maya Julian stage 1_11
+  - first:
+      213: -6944284252894061833
+    second: Maya Julian stage 1_12
+  - first:
+      213: -1400407589331124330
+    second: Maya Julian stage 1_13
+  - first:
+      213: -8637147711696862660
+    second: Maya Julian stage 1_14
+  - first:
+      213: -377994072590070516
+    second: Maya Julian stage 1_15
+  - first:
+      213: -6145880946809904440
+    second: Maya Julian stage 1_16
+  - first:
+      213: -6803669703569804234
+    second: Maya Julian stage 1_17
+  - first:
+      213: 7747403636685711453
+    second: Maya Julian stage 1_18
+  - first:
+      213: -8341057273325819972
+    second: Maya Julian stage 1_19
+  - first:
+      213: 5491970574291386646
+    second: Maya Julian stage 1_20
+  - first:
+      213: 5204040376314757585
+    second: Maya Julian stage 1_21
+  - first:
+      213: -3485090542360244235
+    second: Maya Julian stage 1_22
+  - first:
+      213: 8310523158394334092
+    second: Maya Julian stage 1_23
+  - first:
+      213: -2352170132290406205
+    second: Maya Julian stage 1_24
+  - first:
+      213: 7503980059737858364
+    second: Maya Julian stage 1_25
+  - first:
+      213: 694570435808427554
+    second: Maya Julian stage 1_26
+  - first:
+      213: 2582297907510948169
+    second: Maya Julian stage 1_27
+  - first:
+      213: 3717031986611308894
+    second: Maya Julian stage 1_28
+  - first:
+      213: -3999777379944740659
+    second: Maya Julian stage 1_29
+  - first:
+      213: 1610664826359465953
+    second: Maya Julian stage 1_30
+  - first:
+      213: -7358060788059211541
+    second: Maya Julian stage 1_31
+  - first:
+      213: -8954911323139790049
+    second: Maya Julian stage 1_32
+  - first:
+      213: 946013774597887782
+    second: Maya Julian stage 1_33
+  - first:
+      213: 1380570463832758873
+    second: Maya Julian stage 1_34
+  - first:
+      213: 6087353655726033858
+    second: Maya Julian stage 1_35
+  - first:
+      213: 1173097688876579961
+    second: Maya Julian stage 1_36
+  - first:
+      213: -1398773015313859285
+    second: Maya Julian stage 1_37
+  - first:
+      213: -8375738331613607436
+    second: Maya Julian stage 1_38
+  - first:
+      213: -6703964997610192559
+    second: Maya Julian stage 1_39
+  - first:
+      213: 3301502311933649496
+    second: Maya Julian stage 1_40
+  - first:
+      213: -3453276440558411801
+    second: Maya Julian stage 1_41
+  - first:
+      213: 7754726624869196840
+    second: Maya Julian stage 1_42
+  - first:
+      213: 8933257919588104586
+    second: Maya Julian stage 1_43
+  - first:
+      213: 6017732900788239207
+    second: Maya Julian stage 1_44
+  - first:
+      213: -6489908854349891239
+    second: Maya Julian stage 1_45
+  - first:
+      213: -454335296328917060
+    second: Maya Julian stage 1_46
+  - first:
+      213: -6802673912061806963
+    second: Maya Julian stage 1_47
+  - first:
+      213: 6784603132578023292
+    second: Maya Julian stage 1_48
+  - first:
+      213: 2444426353731129387
+    second: Maya Julian stage 1_49
+  - first:
+      213: -6834625485593644016
+    second: Maya Julian stage 1_50
+  - first:
+      213: 9086259310933859250
+    second: Maya Julian stage 1_51
+  - first:
+      213: 7845900407864039082
+    second: Maya Julian stage 1_52
+  - first:
+      213: 543996658653573025
+    second: Maya Julian stage 1_53
+  - first:
+      213: -8335481191700425735
+    second: Maya Julian stage 1_54
+  - first:
+      213: -3408762094208638512
+    second: Maya Julian stage 1_55
+  - first:
+      213: 7868512549637585184
+    second: Maya Julian stage 1_56
+  - first:
+      213: -1671928879400292908
+    second: Maya Julian stage 1_57
+  - first:
+      213: -3407587706260131138
+    second: Maya Julian stage 1_58
+  - first:
+      213: -2547577618632521721
+    second: Maya Julian stage 1_59
+  - first:
+      213: -5454868578436110390
+    second: Maya Julian stage 1_60
+  - first:
+      213: 341178882770312005
+    second: Maya Julian stage 1_61
+  - first:
+      213: 1443781494449860633
+    second: Maya Julian stage 1_62
+  - first:
+      213: 5652567918273397057
+    second: Maya Julian stage 1_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maya Julian stage 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 965
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2aac243a128e5a0800000000000000
+      internalID: -6491901877770607875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1495
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f465d73e87c9be730800000000000000
+      internalID: 4029486334639691343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1353
+        width: 105
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f388f3e5e3e3cf800800000000000000
+      internalID: 647460884024625215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1473
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0d8d8ed3886120800000000000000
+      internalID: 2407318992710340148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1431
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dbc4ea539f7b750800000000000000
+      internalID: 6320794610990628235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1475
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d350b4b6f17163e0800000000000000
+      internalID: -2062241849951628334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1255
+        width: 183
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d11ec3ea5c98780800000000000000
+      internalID: -8680189454643552898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1439
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee53fa4add61c90800000000000000
+      internalID: -7199323254921236905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1422
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d07625c718e804a0800000000000000
+      internalID: -6626791662886162222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1375
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d0b15d4448a320800000000000000
+      internalID: 2569378686288582929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_10
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1405
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d345e1ce5994130800000000000000
+      internalID: 3551534622512004384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 215
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ab3ba050e1d8b60800000000000000
+      internalID: 7749883540777712151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1341
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa19eea342f0af90800000000000000
+      internalID: -6944284252894061833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1279
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f382997b0c09ce0800000000000000
+      internalID: -1400407589331124330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_14
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1291
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320bb3faefa22880800000000000000
+      internalID: -8637147711696862660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc018c46811caf0800000000000000
+      internalID: -377994072590070516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ed8557d175baa0800000000000000
+      internalID: -6145880946809904440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1186
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63472a5b3728491a0800000000000000
+      internalID: -6803669703569804234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1183
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58a8306f8e448b60800000000000000
+      internalID: 7747403636685711453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1143
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7e93c4a9c9e3c80800000000000000
+      internalID: -8341057273325819972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1101
+        width: 59
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611498db326673c40800000000000000
+      internalID: 5491970574291386646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1102
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1080b6627783840800000000000000
+      internalID: 5204040376314757585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_22
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1103
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4b84dd9872afc0800000000000000
+      internalID: -3485090542360244235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_23
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1038
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b60c118c8e45370800000000000000
+      internalID: 8310523158394334092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_24
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1078
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8fb8d1ab96b5fd0800000000000000
+      internalID: -2352170132290406205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_25
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1059
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c312a464b1e732860800000000000000
+      internalID: 7503980059737858364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_26
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1017
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e79d1a12c93a900800000000000000
+      internalID: 694570435808427554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_27
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1009
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941bc69e34a26d320800000000000000
+      internalID: 2582297907510948169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_28
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1007
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e594bbce5ec859330800000000000000
+      internalID: 3717031986611308894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_29
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1021
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc840c72aafed78c0800000000000000
+      internalID: -3999777379944740659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_30
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 981
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e74f5b302b3a5610800000000000000
+      internalID: 1610664826359465953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 982
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8fffba2bae2e990800000000000000
+      internalID: -7358060788059211541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 967
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b2125c893c9b380800000000000000
+      internalID: -8954911323139790049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_33
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 969
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627988b048ae02d00800000000000000
+      internalID: 946013774597887782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 941
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ad524b585c82310800000000000000
+      internalID: 1380570463832758873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_35
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 913
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbc9bfc5ef9a7450800000000000000
+      internalID: 6087353655726033858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_36
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 935
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf158f12ea74010800000000000000
+      internalID: 1173097688876579961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 933
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2db0d48a5f869ce0800000000000000
+      internalID: -1398773015313859285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_38
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 854
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f94c8c2d5663cb80800000000000000
+      internalID: -8375738331613607436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_39
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 871
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151cac29a5bb6f2a0800000000000000
+      internalID: -6703964997610192559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 807
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852afef4cda41dd20800000000000000
+      internalID: 3301502311933649496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 855
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef5a41af5f7310d0800000000000000
+      internalID: -3453276440558411801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_42
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 851
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824a79d67c25e9b60800000000000000
+      internalID: 7754726624869196840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 597
+        width: 133
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897ef75fbe49fb70800000000000000
+      internalID: 8933257919588104586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 739
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bf9a0a038438350800000000000000
+      internalID: 6017732900788239207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 745
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ffcf28463fe5a0800000000000000
+      internalID: -6489908854349891239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_46
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 741
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf94658470e1b9f0800000000000000
+      internalID: -454335296328917060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_47
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 663
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863dbc7e1c0891a0800000000000000
+      internalID: -6802673912061806963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_48
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 701
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c05b4a90c72e50800000000000000
+      internalID: 6784603132578023292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_49
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 619
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b205fbd41d85ce120800000000000000
+      internalID: 2444426353731129387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_50
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 676
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014fb5e05588621a0800000000000000
+      internalID: -6834625485593644016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_51
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 672
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5c45c3b0e81e70800000000000000
+      internalID: 9086259310933859250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_52
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 626
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa614d10adc32ec60800000000000000
+      internalID: 7845900407864039082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 631
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afab0e241aac8700800000000000000
+      internalID: 543996658653573025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_54
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 639
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f31fb8f40c625c80800000000000000
+      internalID: -8335481191700425735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_55
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 537
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a0ea8fe4a1b0d0800000000000000
+      internalID: -3408762094208638512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_56
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 599
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029f9d78972923d60800000000000000
+      internalID: 7868512549637585184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 245
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde0adda8d1cc8e0800000000000000
+      internalID: -1671928879400292908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 215
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2706b0901d5b0d0800000000000000
+      internalID: -3407587706260131138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 223
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084cab47af25acd0800000000000000
+      internalID: -2547577618632521721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_60
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac720e5dde96c44b0800000000000000
+      internalID: -5454868578436110390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 77
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b9360e26c1cb400800000000000000
+      internalID: 341178882770312005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91077f5ae97590410800000000000000
+      internalID: 1443781494449860633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Julian stage 1_63
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1418475b294f17e40800000000000000
+      internalID: 5652567918273397057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maya Julian stage 1_0: -6491901877770607875
+      Maya Julian stage 1_1: 4029486334639691343
+      Maya Julian stage 1_10: 3551534622512004384
+      Maya Julian stage 1_11: 7749883540777712151
+      Maya Julian stage 1_12: -6944284252894061833
+      Maya Julian stage 1_13: -1400407589331124330
+      Maya Julian stage 1_14: -8637147711696862660
+      Maya Julian stage 1_15: -377994072590070516
+      Maya Julian stage 1_16: -6145880946809904440
+      Maya Julian stage 1_17: -6803669703569804234
+      Maya Julian stage 1_18: 7747403636685711453
+      Maya Julian stage 1_19: -8341057273325819972
+      Maya Julian stage 1_2: 647460884024625215
+      Maya Julian stage 1_20: 5491970574291386646
+      Maya Julian stage 1_21: 5204040376314757585
+      Maya Julian stage 1_22: -3485090542360244235
+      Maya Julian stage 1_23: 8310523158394334092
+      Maya Julian stage 1_24: -2352170132290406205
+      Maya Julian stage 1_25: 7503980059737858364
+      Maya Julian stage 1_26: 694570435808427554
+      Maya Julian stage 1_27: 2582297907510948169
+      Maya Julian stage 1_28: 3717031986611308894
+      Maya Julian stage 1_29: -3999777379944740659
+      Maya Julian stage 1_3: 2407318992710340148
+      Maya Julian stage 1_30: 1610664826359465953
+      Maya Julian stage 1_31: -7358060788059211541
+      Maya Julian stage 1_32: -8954911323139790049
+      Maya Julian stage 1_33: 946013774597887782
+      Maya Julian stage 1_34: 1380570463832758873
+      Maya Julian stage 1_35: 6087353655726033858
+      Maya Julian stage 1_36: 1173097688876579961
+      Maya Julian stage 1_37: -1398773015313859285
+      Maya Julian stage 1_38: -8375738331613607436
+      Maya Julian stage 1_39: -6703964997610192559
+      Maya Julian stage 1_4: 6320794610990628235
+      Maya Julian stage 1_40: 3301502311933649496
+      Maya Julian stage 1_41: -3453276440558411801
+      Maya Julian stage 1_42: 7754726624869196840
+      Maya Julian stage 1_43: 8933257919588104586
+      Maya Julian stage 1_44: 6017732900788239207
+      Maya Julian stage 1_45: -6489908854349891239
+      Maya Julian stage 1_46: -454335296328917060
+      Maya Julian stage 1_47: -6802673912061806963
+      Maya Julian stage 1_48: 6784603132578023292
+      Maya Julian stage 1_49: 2444426353731129387
+      Maya Julian stage 1_5: -2062241849951628334
+      Maya Julian stage 1_50: -6834625485593644016
+      Maya Julian stage 1_51: 9086259310933859250
+      Maya Julian stage 1_52: 7845900407864039082
+      Maya Julian stage 1_53: 543996658653573025
+      Maya Julian stage 1_54: -8335481191700425735
+      Maya Julian stage 1_55: -3408762094208638512
+      Maya Julian stage 1_56: 7868512549637585184
+      Maya Julian stage 1_57: -1671928879400292908
+      Maya Julian stage 1_58: -3407587706260131138
+      Maya Julian stage 1_59: -2547577618632521721
+      Maya Julian stage 1_6: -8680189454643552898
+      Maya Julian stage 1_60: -5454868578436110390
+      Maya Julian stage 1_61: 341178882770312005
+      Maya Julian stage 1_62: 1443781494449860633
+      Maya Julian stage 1_63: 5652567918273397057
+      Maya Julian stage 1_7: -7199323254921236905
+      Maya Julian stage 1_8: -6626791662886162222
+      Maya Julian stage 1_9: 2569378686288582929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

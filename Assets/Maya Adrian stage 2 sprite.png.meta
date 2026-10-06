@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 2934a447b6aff14458d9bc9021a7060e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3646142953278282964
+    second: Maya Adrian stage 2 sprite_0
+  - first:
+      213: 7163081897029681763
+    second: Maya Adrian stage 2 sprite_1
+  - first:
+      213: 3266849046619129288
+    second: Maya Adrian stage 2 sprite_2
+  - first:
+      213: -1639117388144160509
+    second: Maya Adrian stage 2 sprite_3
+  - first:
+      213: -6440366360775254955
+    second: Maya Adrian stage 2 sprite_4
+  - first:
+      213: -6197664621022891752
+    second: Maya Adrian stage 2 sprite_5
+  - first:
+      213: 3404491979870111880
+    second: Maya Adrian stage 2 sprite_6
+  - first:
+      213: 6529360525379581912
+    second: Maya Adrian stage 2 sprite_7
+  - first:
+      213: 7681223858666265099
+    second: Maya Adrian stage 2 sprite_8
+  - first:
+      213: 2099311935053626018
+    second: Maya Adrian stage 2 sprite_9
+  - first:
+      213: -6848403082789985195
+    second: Maya Adrian stage 2 sprite_10
+  - first:
+      213: 7531809830353760477
+    second: Maya Adrian stage 2 sprite_11
+  - first:
+      213: -5900291419940451487
+    second: Maya Adrian stage 2 sprite_12
+  - first:
+      213: -1921561963897284235
+    second: Maya Adrian stage 2 sprite_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 1013
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ed855d4c466dc0800000000000000
+      internalID: -3646142953278282964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1397
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3624c71a801686360800000000000000
+      internalID: 7163081897029681763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1375
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58e8e36ed265d20800000000000000
+      internalID: 3266849046619129288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1232
+        width: 225
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301508e7b6fa049e0800000000000000
+      internalID: -1639117388144160509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1361
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c9d9adae83f96a0800000000000000
+      internalID: -6440366360775254955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1367
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811bce22dd87df9a0800000000000000
+      internalID: -6197664621022891752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1293
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88803dcfa6f2f3f20800000000000000
+      internalID: 3404491979870111880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1289
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d735b5cdc2fc9a50800000000000000
+      internalID: 6529360525379581912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1297
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ade001760399a60800000000000000
+      internalID: 7681223858666265099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_9
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1159
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafb911511422d10800000000000000
+      internalID: 2099311935053626018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1116
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ec9b3ea595f0a0800000000000000
+      internalID: -6848403082789985195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1160
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f70ea22d568860800000000000000
+      internalID: 7531809830353760477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 286
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0a23f634fd1ea0800000000000000
+      internalID: -5900291419940451487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maya Adrian stage 2 sprite_13
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 219
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5791000239d3555e0800000000000000
+      internalID: -1921561963897284235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maya Adrian stage 2 sprite_0: -3646142953278282964
+      Maya Adrian stage 2 sprite_1: 7163081897029681763
+      Maya Adrian stage 2 sprite_10: -6848403082789985195
+      Maya Adrian stage 2 sprite_11: 7531809830353760477
+      Maya Adrian stage 2 sprite_12: -5900291419940451487
+      Maya Adrian stage 2 sprite_13: -1921561963897284235
+      Maya Adrian stage 2 sprite_2: 3266849046619129288
+      Maya Adrian stage 2 sprite_3: -1639117388144160509
+      Maya Adrian stage 2 sprite_4: -6440366360775254955
+      Maya Adrian stage 2 sprite_5: -6197664621022891752
+      Maya Adrian stage 2 sprite_6: 3404491979870111880
+      Maya Adrian stage 2 sprite_7: 6529360525379581912
+      Maya Adrian stage 2 sprite_8: 7681223858666265099
+      Maya Adrian stage 2 sprite_9: 2099311935053626018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
